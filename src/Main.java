@@ -1,5 +1,6 @@
 
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
@@ -37,8 +38,26 @@ public class Main {
                                 palpite = teclado.nextInt();
                         }*/
                         System.out.println("End");
+//for
+                for ( int i=0; i < 20 ; i+=2){
+                        System.out.println("Saida : " +i);
                 }
+// arraylist
+                Scanner teclados =new Scanner(System.in);
+                ArrayList<String> listadenome = new ArrayList<String>();
 
+                System.out.println("Digite a quantidade de nomes : ");
+                int qntd = teclados.nextInt();
+                String nome;
+                for (int z = 0; z < qntd; z++) {
+                        System.out.println("Digite o nome : ");
+                        nome = teclados.next();
+                        listadenome.add(nome);
+
+                }
+                System.out.println(listadenome);
+
+                }
         }
 
 
