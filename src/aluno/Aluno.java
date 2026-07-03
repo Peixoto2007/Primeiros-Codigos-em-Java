@@ -3,21 +3,21 @@ package aluno;
 public class Aluno {
     int matricula;
     String nome;
-    String cpf;
-    static String genero = "masculino";
+    String curso;
+    Avaliacao notas;
 
-    Aluno(int pmatricula, String pnome, String pcpf) {
 
-        matricula=pmatricula;
-        nome =pnome;
-        cpf= pcpf;
+    Aluno (String nome, String curso, Avaliacao notas) {
+        this.nome = nome;
+        this.curso= curso;
+        this.notas = notas;
+
 }
 
     void saida(){
         System.out.println(nome);
-        System.out.println(cpf);
-        System.out.println(matricula);
-        System.out.println(genero);
+        System.out.println(curso);
+        System.out.println(notas.mediaarit());
 
     }
 

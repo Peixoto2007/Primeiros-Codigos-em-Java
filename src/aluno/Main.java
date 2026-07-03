@@ -61,14 +61,35 @@ public class Main {
 //
 //
 
-                System.out.println("Hello World!");
+//                System.out.println("Hello World!");
+//
+//                        Aluno a = new Aluno(505 , "dyegao" , "706850");
+//                a.saida();
+//
+//                ArrayList<Aluno> alunos = new ArrayList();
+//                alunos.add(a);
+//
 
-                        Aluno a = new Aluno(505 , "dyegao" , "706850");
-                a.saida();
 
-                ArrayList<Aluno> alunos = new ArrayList();
-                alunos.add(a);
-                
+//                Avaliacao luquinhas = new Avaliacao(15,10,2);
+//                Avaliacao dyegoGO = new Avaliacao(7,4,10);
+//                System.out.println("Hello World" + dyegoGO.mediaarit());
+//                System.out.println("Hello World" + dyegoGO.mediapond());
+
+
+//                Aluno evelyn = new Aluno ("Evelyn","Fisioterapia", new Avaliacao(15,9,5));
+//                evelyn.saida();
+                  Conta dyego = new Conta(777 , "Dyego Alves",2000.00 ,10000.0);
+
+
+                  dyego.info();
+                  dyego.sacar(200);
+                  dyego.depositar(10000);
+                  dyego.info();
+
+
+
+
                 }
 
 
