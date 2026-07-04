@@ -2,11 +2,12 @@ package aluno;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Scanner;
 
 public class Main {
 
-        public static void main(String[] args) {
+    public static void main(String[] args) {
 
 //                System.out.println("Digite seu peso e sua altura");
 //                Scanner teclado = new Scanner(System.in);
@@ -74,27 +75,48 @@ public class Main {
 //                Avaliacao luquinhas = new Avaliacao(15,10,2);
 //                Avaliacao dyegoGO = new Avaliacao(7,4,10);
 //                System.out.println("Hello World" + dyegoGO.mediaarit());
-//                System.out.println("Hello World" + dyegoGO.mediapond());
+////                System.out.println("Hello World" + dyegoGO.mediapond());
+//
+//
+////                Aluno evelyn = new Aluno ("Evelyn","Fisioterapia", new Avaliacao(15,9,5));
+////                evelyn.saida();
+//                  Conta dyego = new Conta(777 , "Dyego Alves",2000.00 ,10000.0);
+//
+//
+//                  dyego.info();
+//                  dyego.sacar(200);
+//                  dyego.depositar(10000);
+//                  dyego.info();
+//
+//        array simples e estatica
+        String[] nomesa = new String[5];
+        nomesa[0] = "Goku";
+        nomesa[1] = "Vegeta";
+        nomesa[2] = "Lucas";
+        nomesa[3] = "Maria";
+        nomesa[4] = "Dyego";
+        nomesa[4] = "Luiz";
 
+        System.out.println(nomesa[1]);
 
-//                Aluno evelyn = new Aluno ("Evelyn","Fisioterapia", new Avaliacao(15,9,5));
-//                evelyn.saida();
-                  Conta dyego = new Conta(777 , "Dyego Alves",2000.00 ,10000.0);
+//        arraylist dinamica
+        ArrayList<String> Meunome = new ArrayList<String>();
 
-
-                  dyego.info();
-                  dyego.sacar(200);
-                  dyego.depositar(10000);
-                  dyego.info();
-
-
-
-
-                }
-
-
-
+        for (int i=0;i<nomesa.length;i++){
+            System.out.println(i);
+            Meunome.add(nomesa[i]);
         }
+        System.out.println(Meunome.size());
+
+        Collections.sort(Meunome,Collections.reverseOrder());
+
+        for ( String nome : Meunome){
+            System.out.println(nome);
+        }
+        System.out.println(Meunome);
+    }
+
+}
 
 
 
