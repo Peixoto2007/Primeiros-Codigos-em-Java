@@ -9,6 +9,8 @@ public class Avaliacao {
         this.n2 = n2;
         this.n3 = n3;
 
+
+
     };
 
     double mediaarit(){

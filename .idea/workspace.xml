@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3e482ab-4656-41c3-91ba-780d21971f93" name="Changes" comment="Primeiros codigos em Java ( Classes, Statics ,Atributos, Metodos e Contrutores )">
-      <change afterPath="$PROJECT_DIR$/src/aluno/Avaliacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aluno/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aluno/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aluno/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aluno/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aluno/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="c3e482ab-4656-41c3-91ba-780d21971f93" name="Changes" comment="Primeiros codigos em Java ( EXERCICIOS COM Classes, Statics ,Atributos, Metodos e Contrutores )" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782951994554</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Primeiros codigos em Java ( EXERCICIOS COM Classes, Statics ,Atributos, Metodos e Contrutores )">
+      <option name="closed" value="true" />
+      <created>1783038570280</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1783038570280</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +192,7 @@
     <MESSAGE value="Primeiros codigos em Java ( estava esquecendo de salvar no github )" />
     <MESSAGE value="Primeiros codigos em Java ( Arrayslist" />
     <MESSAGE value="Primeiros codigos em Java ( Classes, Statics ,Atributos, Metodos e Contrutores )" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiros codigos em Java ( Classes, Statics ,Atributos, Metodos e Contrutores )" />
+    <MESSAGE value="Primeiros codigos em Java ( EXERCICIOS COM Classes, Statics ,Atributos, Metodos e Contrutores )" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiros codigos em Java ( EXERCICIOS COM Classes, Statics ,Atributos, Metodos e Contrutores )" />
   </component>
 </project>
