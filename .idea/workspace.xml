@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3e482ab-4656-41c3-91ba-780d21971f93" name="Changes" comment="Primeiros codigos em Java ( EXERCICIOS COM ArraysLists, functions e Collections e Array simples )">
-      <change afterPath="$PROJECT_DIR$/src/empresa/Horario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/empresa/principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aluno/Collectionnns.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aluno/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aluno/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aluno/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aluno/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/empresa/Horario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/empresa/principal.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,32 +54,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Aprendendo_java.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Primeiro.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/dyego/IdeaProjects/Aprendendo_java/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Aprendendo_java.Main.executor": "Run",
+    "Application.Collectionnns.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Primeiro.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/dyego/IdeaProjects/Aprendendo_java/src/Main.java",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="aluno" />
       <recent name="ALUNO" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Collectionnns">
     <configuration name="Aprendendo_java.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aprendendo_java.Main" />
       <module name="Aprendendo_java" />
@@ -90,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="aluno.Main" />
+    <configuration name="Collectionnns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aluno.Collectionnns" />
       <module name="Aprendendo_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,12 +110,12 @@
     </configuration>
     <list>
       <item itemvalue="Application.Aprendendo_java.Main" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Collectionnns" />
       <item itemvalue="Application.Primeiro" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Collectionnns" />
         <item itemvalue="Application.Aprendendo_java.Main" />
         <item itemvalue="Application.Primeiro" />
       </list>

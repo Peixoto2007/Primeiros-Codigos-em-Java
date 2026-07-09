@@ -62,14 +62,14 @@ public class Main {
 //
 //
 
-//                System.out.println("Hello World!");
-//
-//                        Aluno a = new Aluno(505 , "dyegao" , "706850");
-//                a.saida();
-//
-//                ArrayList<Aluno> alunos = new ArrayList();
-//                alunos.add(a);
-//
+                System.out.println("Hello World!");
+
+                        Aluno a = new Aluno(505 , "dyegao" , "706850","Hercilia");
+                a.saida();
+
+                ArrayList<Aluno> alunos = new ArrayList();
+                alunos.add(a);
+
 
 
 //                Avaliacao luquinhas = new Avaliacao(15,10,2);
@@ -89,31 +89,31 @@ public class Main {
 //                  dyego.info();
 //
 //        array simples e estatica
-        String[] nomesa = new String[5];
-        nomesa[0] = "Goku";
-        nomesa[1] = "Vegeta";
-        nomesa[2] = "Lucas";
-        nomesa[3] = "Maria";
-        nomesa[4] = "Dyego";
-        nomesa[4] = "Luiz";
-
-        System.out.println(nomesa[1]);
+//        String[] nomesa = new String[5];
+//        nomesa[0] = "Goku";
+//        nomesa[1] = "Vegeta";
+//        nomesa[2] = "Lucas";
+//        nomesa[3] = "Maria";
+//        nomesa[4] = "Dyego";
+//        nomesa[4] = "Luiz";
+//
+//        System.out.println(nomesa[1]);
 
 //        arraylist dinamica
-        ArrayList<String> Meunome = new ArrayList<String>();
-
-        for (int i=0;i<nomesa.length;i++){
-            System.out.println(i);
-            Meunome.add(nomesa[i]);
-        }
-        System.out.println(Meunome.size());
-
-        Collections.sort(Meunome,Collections.reverseOrder());
-
-        for ( String nome : Meunome){
-            System.out.println(nome);
-        }
-        System.out.println(Meunome);
+//        ArrayList<String> Meunome = new ArrayList<String>();
+//
+//        for (int i=0;i<nomesa.length;i++){
+//            System.out.println(i);
+//            Meunome.add(nomesa[i]);
+//        }
+//        System.out.println(Meunome.size());
+//
+//        Collections.sort(Meunome,Collections.reverseOrder());
+//
+//        for ( String nome : Meunome){
+//            System.out.println(nome);
+//        }
+//        System.out.println(Meunome);
     }
 
 }
