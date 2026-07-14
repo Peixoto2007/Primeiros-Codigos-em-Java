@@ -30,10 +30,17 @@ public class Livro {
         this.edicao = edicao;
     }
     public Livro(String titulo, Autor autor , String genero, int edicao){
-        super();
+        
         this.titulo = titulo;
         this.autor = autor;
         this.genero = genero;
         this.edicao = edicao;
+    };
+
+    public void info(){
+        System.out.println("Titulo :" +titulo);
+        System.out.println("Autor :" +autor);
+        System.out.println("Genero :" +genero);
+        System.out.println("Edicao :" +edicao);
     };
 }

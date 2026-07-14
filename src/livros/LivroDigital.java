@@ -1,8 +1,14 @@
 package livros;
 
-public class LivroDigital {
+public class LivroDigital extends Livro {
     private int download;
     private double tamanho;
+
+    public LivroDigital(String Titulo,Autor autor,String genero, int edicao,int download,double tamanho){
+      super(Titulo,autor,genero,edicao);
+      this.download = download;
+      this.tamanho = tamanho;
+    };
 
     public int getDownload() {
         return download;
@@ -19,4 +25,10 @@ public class LivroDigital {
     public void setTamanho(double tamanho) {
         this.tamanho = tamanho;
     }
-}
+
+        public void info(){
+            super.info();
+            System.out.println("Download :" + download);
+            System.out.println("Tamanho :" + tamanho);
+        }
+    }

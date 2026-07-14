@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3e482ab-4656-41c3-91ba-780d21971f93" name="Changes" comment="Primeiros codigos em Java ( Exercicios com Encapsulamentos, Construtores e Visibilidade )">
-      <change afterPath="$PROJECT_DIR$/src/livros/Autor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/livros/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/livros/LivroDigital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/livros/LivroFisico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/livros/Principale.java" afterDir="false" />
+    <list default="true" id="c3e482ab-4656-41c3-91ba-780d21971f93" name="Changes" comment="Primeiros codigos em Java ( Herançã e Visibilidade )">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/livros/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/livros/Autor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/livros/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/livros/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/livros/LivroDigital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/livros/LivroDigital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/livros/LivroFisico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/livros/LivroFisico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/livros/Principale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/livros/Principale.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,7 @@
       <recent name="ALUNO" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Principal">
+  <component name="RunManager" selected="Application.Principale">
     <configuration name="Aprendendo_java.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aprendendo_java.Main" />
       <module name="Aprendendo_java" />
@@ -122,7 +122,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Principale" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="livros.Principale" />
+      <module name="Aprendendo_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="livros.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.Principale" />
       <item itemvalue="Application.Principal" />
       <item itemvalue="Application.Aprendendo_java.Main" />
       <item itemvalue="Application.Collectionnns" />
@@ -130,6 +144,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principale" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Collectionnns" />
         <item itemvalue="Application.Aprendendo_java.Main" />
@@ -217,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783643630330</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Primeiros codigos em Java ( Herançã e Visibilidade )">
+      <option name="closed" value="true" />
+      <created>1783987306650</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1783987306651</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +275,7 @@
     <MESSAGE value="Primeiros codigos em Java ( EXERCICIOS COM ArraysLists, functions e Collections e Array simples )" />
     <MESSAGE value="Primeiros codigos em Java ( Reforçando Collections , Classes de Data e vendo sobre iterator e Encapsulamentos )" />
     <MESSAGE value="Primeiros codigos em Java ( Exercicios com Encapsulamentos, Construtores e Visibilidade )" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiros codigos em Java ( Exercicios com Encapsulamentos, Construtores e Visibilidade )" />
+    <MESSAGE value="Primeiros codigos em Java ( Herançã e Visibilidade )" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiros codigos em Java ( Herançã e Visibilidade )" />
   </component>
 </project>

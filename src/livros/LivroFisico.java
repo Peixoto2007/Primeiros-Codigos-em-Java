@@ -26,4 +26,11 @@ public class LivroFisico extends Livro {
         this.peso=peso;
 
     }
+
+    @Override
+    public void info() {
+        super.info();
+        System.out.println("Tiragem :"+tiragem);
+        System.out.println("Peso :"+peso);
+    }
 }
