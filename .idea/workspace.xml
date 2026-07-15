@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3e482ab-4656-41c3-91ba-780d21971f93" name="Changes" comment="Primeiros codigos em Java ( Herançã e Visibilidade )">
+    <list default="true" id="c3e482ab-4656-41c3-91ba-780d21971f93" name="Changes" comment="Primeiros codigos em Java ( Mais exercicios de Heranças e Visibilidade e @Override)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/livros/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/livros/Autor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/livros/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/livros/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/livros/LivroDigital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/livros/LivroDigital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/livros/LivroFisico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/livros/LivroFisico.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/livros/Principale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/livros/Principale.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +58,7 @@
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Primeiro.executor&quot;: &quot;Run&quot;,
     &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Principale.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -240,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783987306651</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Primeiros codigos em Java ( Mais exercicios de Heranças e Visibilidade e @Override)">
+      <option name="closed" value="true" />
+      <created>1784071573189</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1784071573189</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +282,7 @@
     <MESSAGE value="Primeiros codigos em Java ( Reforçando Collections , Classes de Data e vendo sobre iterator e Encapsulamentos )" />
     <MESSAGE value="Primeiros codigos em Java ( Exercicios com Encapsulamentos, Construtores e Visibilidade )" />
     <MESSAGE value="Primeiros codigos em Java ( Herançã e Visibilidade )" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiros codigos em Java ( Herançã e Visibilidade )" />
+    <MESSAGE value="Primeiros codigos em Java ( Mais exercicios de Heranças e Visibilidade e @Override)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiros codigos em Java ( Mais exercicios de Heranças e Visibilidade e @Override)" />
   </component>
 </project>
