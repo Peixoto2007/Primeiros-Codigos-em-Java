@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3e482ab-4656-41c3-91ba-780d21971f93" name="Changes" comment="Primeiros codigos em Java ( Polimorfismo )">
-      <change afterPath="$PROJECT_DIR$/src/livros/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/livros/Gato.java" afterDir="false" />
+    <list default="true" id="c3e482ab-4656-41c3-91ba-780d21971f93" name="Changes" comment="Primeiros codigos em Java ( Polimorfismo , Interface )">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/livros/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/livros/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/livros/Principale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/livros/Principale.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784156084391</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Primeiros codigos em Java ( Polimorfismo , Interface )">
+      <option name="closed" value="true" />
+      <created>1784248729741</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1784248729741</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,6 +300,7 @@
     <MESSAGE value="Primeiros codigos em Java ( Herançã e Visibilidade )" />
     <MESSAGE value="Primeiros codigos em Java ( Mais exercicios de Heranças e Visibilidade e @Override)" />
     <MESSAGE value="Primeiros codigos em Java ( Polimorfismo )" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiros codigos em Java ( Polimorfismo )" />
+    <MESSAGE value="Primeiros codigos em Java ( Polimorfismo , Interface )" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiros codigos em Java ( Polimorfismo , Interface )" />
   </component>
 </project>
