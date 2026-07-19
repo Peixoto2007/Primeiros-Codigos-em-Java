@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3e482ab-4656-41c3-91ba-780d21971f93" name="Changes" comment="Primeiros codigos em Java ( Polimorfismo , Interface )">
+    <list default="true" id="c3e482ab-4656-41c3-91ba-780d21971f93" name="Changes" comment="Primeiros codigos em Java ( Polimorfismo , Interface , Classe Abstrata )">
+      <change afterPath="$PROJECT_DIR$/src/livros/Desktop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/livros/Notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/livros/computador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/livros/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/livros/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/livros/LivroDigital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/livros/LivroDigital.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/livros/Principale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/livros/Principale.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -262,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784248729741</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Primeiros codigos em Java ( Polimorfismo , Interface , Classe Abstrata )">
+      <option name="closed" value="true" />
+      <created>1784332777330</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1784332777330</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +312,7 @@
     <MESSAGE value="Primeiros codigos em Java ( Mais exercicios de Heranças e Visibilidade e @Override)" />
     <MESSAGE value="Primeiros codigos em Java ( Polimorfismo )" />
     <MESSAGE value="Primeiros codigos em Java ( Polimorfismo , Interface )" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiros codigos em Java ( Polimorfismo , Interface )" />
+    <MESSAGE value="Primeiros codigos em Java ( Polimorfismo , Interface , Classe Abstrata )" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiros codigos em Java ( Polimorfismo , Interface , Classe Abstrata )" />
   </component>
 </project>
