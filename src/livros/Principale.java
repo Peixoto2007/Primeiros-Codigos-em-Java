@@ -38,9 +38,9 @@ public class Principale {
 
         computador comp1;
         comp1 = desktop1;
-        System.out.println("Valor" + comp1.calculaValor());
+        System.out.println("Valor " + comp1.calculaValor());
         comp1 = notebook1;
-        System.out.println("Valor" + comp1.calculaValor());
+        System.out.println("Valor " + comp1.calculaValor());
 
         ArrayList<computador>ListadeComputador = new ArrayList<computador>();
         ListadeComputador.add(desktop1);
@@ -52,7 +52,7 @@ public class Principale {
         for (computador y : ListadeComputador) {
             total += y.calculaValor();
         }
-            System.out.println("Total do valor" + total);
+            System.out.println("Total do valor : x" + total);
 
 
 
